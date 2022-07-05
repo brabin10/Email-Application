@@ -4,6 +4,10 @@ Scenario: You are an IT Support Administrator Specialist and are charged with th
 ## Technology:
 Java
 
+## Requirements
+* Familar with Java development environment
+* Knowledge of Object-Oriented Programming concept
+
 
 # Objectives
 * Generate an email with the following syntax: firstname.lastname@department.company.com
