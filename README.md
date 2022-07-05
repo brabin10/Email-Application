@@ -1,10 +1,10 @@
 # CLI based Email Application
 Scenario: You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires.
 
-## Technology:
+# Technology:
 Java
 
-## Requirements
+# Requirements
 * Familar with Java development environment
 * Knowledge of Object-Oriented Programming concept
 
@@ -16,5 +16,5 @@ Java
 * Have set methods to change the password, set the mailbox capacity, and define an alternate email address
 * Have get methods to display the name, email, and mailbox capacity
 
-## License
+# License
 Licensed under the [MIT License](LICENSE).
